@@ -3,7 +3,7 @@
 var act=false;
 var scalefactorX=0;
 var oldscalefactorX=0;
-var scaleX = 1;
+var scaleX = 0;
 var a=document.getElementById('rect1');
 var b=document.getElementById('drag');
 var svg1=document.getElementById('svg1'),
