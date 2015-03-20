@@ -19,7 +19,6 @@ b.addEventListener('mousedown',dragfn);
 
 
 function dragfn(e){
-
 	currentXc = e.clientX;
 	currentYc = e.clientY;
 	svg1.addEventListener('mousemove',updatePosition);
@@ -49,3 +48,12 @@ function stopmove(e){
 	
 
 }
+function() neWfn{
+var a= 4+5;
+}
+
+function() neWfn{
+var a= 4+5;
+}
+
+
