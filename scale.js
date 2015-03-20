@@ -52,7 +52,7 @@ function() neWfn{
 var a= 4+5;
 }
 
-function() neWfn{
+function() neWfn2222222222222{
 var a= 4+5;
 }
 
